@@ -1,4 +1,4 @@
-# SlimeShooter
+# Slime Shooter
 
 A small game I made to practice using Unity. The files above only include the scripts (no sounds/models). All the models/animations were created by me in Aseprite.
 
