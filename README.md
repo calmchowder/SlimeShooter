@@ -1,5 +1,15 @@
 # SlimeShooter
 
-A small game I made to practice using Unity.
+A small game I made to practice using Unity. The files above only include the scripts (no sounds/models).
 
-Download: http://www.mediafire.com/file/b5h5rfhrhjwfca7/Slime+Shooter.rar
+**Download:** http://www.mediafire.com/file/b5h5rfhrhjwfca7/Slime+Shooter.rar
+
+
+## Screenshots
+![Screen1](https://i.imgur.com/3r6VqBG.png)
+
+![Screen2](https://i.imgur.com/U1Yx7mH.png)
+
+![Screen3](https://i.imgur.com/p3vWj2B.png)
+
+![Screen4](https://i.imgur.com/2RP3yLU.png)
